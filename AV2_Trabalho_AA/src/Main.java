@@ -24,10 +24,13 @@ public class Main {
 
             switch (op) {
                 case 1:
+                    HasteRecursivaUpBottom.executar();
                     break;
                 case 2:
+                    HasteDinamicaUpBottomMemorization.executar();
                     break;
                 case 3:
+                    HasteDinamicaBottomUp.executar();
                     break;
                 case 4:
                     AtividadeGulosoInterativo.executar();
