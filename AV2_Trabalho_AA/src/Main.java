@@ -24,6 +24,7 @@ public class Main {
 
             switch (op) {
                 case 1:
+                    HasteRecursivaUpBottom.executar();
                     break;
                 case 2:
                     HasteDinamicaUpBottomMemorization.executar();
