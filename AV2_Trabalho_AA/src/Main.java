@@ -30,6 +30,7 @@ public class Main {
                     HasteDinamicaUpBottomMemorization.executar();
                     break;
                 case 3:
+                    HasteDinamicaBottomUp.executar();
                     break;
                 case 4:
                     AtividadeGulosoInterativo.executar();
